@@ -20,4 +20,3 @@ identity. Where those frozen records contain the former owner, resolve the
 same repository and exact tag/commit under `qizhi-id`; this is an account
 rename, not a Standards adoption or a business/version change. Do not rewrite
 released tags, archived evidence, Android application IDs, or signed APKs.
-
