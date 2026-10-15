@@ -21,7 +21,7 @@ from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
-REPOSITORY = "Asteroid-B-612-ZS/HondataDash"
+REPOSITORY = "qizhi-id/HondataDash"
 
 
 class DeliveryError(RuntimeError):

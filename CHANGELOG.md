@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-15 — GitHub account rename (maintenance only)
+
+- Update live repository URLs and Git-only governance references to `qizhi-id`.
+- Preserve fixed Standards baselines, historical evidence, product identity, versions and releases.
+
 ## V2.0 — Semantic Dashboard and OEM Interface
 
 V2.0 is the current generation and introduces a generational redesign of both presentation and display semantics on top of the stable V1.0 communication/data foundation.
