@@ -8,4 +8,4 @@ permissions:
   contents: read
 jobs:
   governance:
-    uses: Asteroid-B-612-ZS/claude_code_public_skills/.github/workflows/qizhi-reusable.yml@1b6ec2336d3e80a589d69879b9bd5b8c63488701
+    uses: qizhi-id/claude_code_public_skills/.github/workflows/qizhi-reusable.yml@14757dec9aeaaa803105a027beb2abbb5e921139
